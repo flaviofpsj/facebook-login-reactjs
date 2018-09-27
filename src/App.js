@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div>
         <Top />
-        <Content name='Flavio Farias' email='flavio_farias_@hotmail.com' picture='assets/img/1.jpg' />
+        <Content />
       </div>
     );
   }
